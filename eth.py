@@ -2,6 +2,7 @@ import time
 import pyupbit
 import datetime
 import schedule
+import requests
 from fbprophet import Prophet
 
 access = "QAyRwwbELAOxKezKDZkUi4eSggXKtVSxU0qL5Fep"
